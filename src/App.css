@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  background-color: #0D0D0D;
+  font-family: 'League Spartan', sans-serif;
+  color: #FFFFFF;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,3 +36,5 @@
     transform: rotate(360deg);
   }
 }
+
+

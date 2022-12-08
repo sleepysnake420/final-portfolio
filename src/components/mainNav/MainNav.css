@@ -1,0 +1,38 @@
+.nav-style {
+    height: auto;
+    justify-content: center;
+    margin: 0 auto; 
+    display: flex;
+    padding-top: 1%;
+}
+
+.nav-item-style {
+    /* color: #F1F6FA; */
+    color: #FFFFFF;
+    font-family: 'Roboto Slab', serif;
+}
+
+.logo-text {    
+    font-size: 4rem; 
+}
+
+.nav-2-style {
+    height: auto;
+    justify-content: center;
+    margin: 0 auto; 
+    display: flex;
+    padding-top: 1%;
+}
+
+.nav-2-item-style {
+    font-size: 2rem;
+}
+
+.nav-2-item-style > a {
+    color: #C6B4D9;
+    text-decoration: none;
+}
+
+.nav-2-item-style > a:hover {
+    color: #FFFFFF;
+}
