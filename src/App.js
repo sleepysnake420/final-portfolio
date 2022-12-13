@@ -2,6 +2,7 @@ import { useState } from "react";
 
 import "./App.css";
 import MainNav from "./components/mainNav/MainNav";
+import Footer from "./components/footer/Footer";
 import About from "./components/about/About";
 import Projects from "./components/projects/Projects";
 import Prototypes from "./components/prototypes/Prototypes";
@@ -19,6 +20,7 @@ function App() {
       <About isShown={activeKey === "/about"} />
       <Prototypes isShown={activeKey === "/prototypes"} />
       <Projects isShown={activeKey === "/projects"} />
+      <Footer />
     </div>
   );
 }

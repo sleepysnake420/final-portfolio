@@ -39,21 +39,24 @@ function About(props) {
         </div>
         <div className="about-text-div">
           <h1 className="about-text-h1">
-            Hello! I am Sleepysnake420. Welcome to my CSCI-1300 (UI/UX) Final
-            Portfolio!
+            Sleepysnake420 <br></br> UI/UX Developer & Designer based in
+            Providence, RI.
           </h1>
           <h2 className="about-text-h2">
-            Follow me as I take you through the course I took at Brown
-            University, where we started with the theory of user interaction and
-            object design, then moved on to learning how to conceptualize and
-            create user models, looked at user testing paradigms, and finally
-            spent a lot of time working with various prototyping techniques,
-            software, and actual web development.
+            A portfolio comprising of projects on responsiveness, redesign,
+            React programming, and a variety of iterative prototyping methods.
           </h2>
           <h3 className="about-text-h3">
-            Explore the tabs to see end-to-end projects on re-design,
-            responsiveness, and React programming as well as numerous iterative
-            prototyping techniques.
+            Follow my journey through the course I took at Brown University,
+            where we started with the theory of user interaction and object
+            design, moved on to learning how to conceptualize and create user
+            models, looked at user testing paradigms, and finally spent time
+            working on various prototyping techniques, frameworks, and core web
+            development.
+          </h3>
+          <h3 className="about-text-h3">
+            I try to blend my love of dark color palettes, abstract artwork, and
+            AI generated content in order to create a unique narrative.
           </h3>
         </div>
       </div>

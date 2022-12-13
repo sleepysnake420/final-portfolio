@@ -30,10 +30,10 @@ function BasicExample(props) {
           </Nav.Item>
         </Nav.Item>
         <Nav.Item className="nav-2-item-style">
-          <Nav.Link eventKey="/prototypes">Prototypes</Nav.Link>
+          <Nav.Link eventKey="/prototypes">Design</Nav.Link>
         </Nav.Item>
         <Nav.Item className="nav-2-item-style">
-          <Nav.Link eventKey="/projects">Projects</Nav.Link>
+          <Nav.Link eventKey="/projects">Development</Nav.Link>
         </Nav.Item>
       </Nav>
     </div>

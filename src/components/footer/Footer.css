@@ -1,0 +1,17 @@
+.footer-style {
+    height: 6rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;    
+    margin-left: 2%;    
+}
+
+.footer-item-style {
+    /* color: #F1F6FA; */
+    color: #FFFFFF;
+    font-family: 'Roboto Slab', serif;
+}
+
+.footer-text {
+    font-size: 1.5rem;
+}

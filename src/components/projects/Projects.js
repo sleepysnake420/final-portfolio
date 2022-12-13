@@ -100,7 +100,7 @@ function Projects(props) {
             This assignment consisted of: (1) sketching ideas of the interface,
             (2) creating an interactive, high-fidelity prototype, (3) conducting
             user testing on a final, revised prototype, and (4) contacting the
-            start up.
+            startup.
           </Card.Text>
           <a
             href={"https://sleepysnake420.github.io/1300-assignment-3/"}
